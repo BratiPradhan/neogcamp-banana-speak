@@ -19,3 +19,11 @@ body {
     width: 48%;
     height: 8vh;
 }
+
+#output-div {
+    width: 80%;
+    border: 1px solid gray;
+    height: 20vh;
+    margin: 4rem 0rem;
+    padding: 1rem;
+}
