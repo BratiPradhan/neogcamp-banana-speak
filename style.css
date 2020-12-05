@@ -13,6 +13,8 @@ body {
     background: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/image/minion.jpg);
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
     padding: 0px;
     border: 0px;
     margin: 0px;
