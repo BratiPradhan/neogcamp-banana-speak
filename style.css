@@ -116,8 +116,8 @@ footer h3 {
     }
     .container {
         padding: 0rem 1rem;
-        max-width: 348px;
-        margin: 0rem 0rem 0rem 4.8rem;
+        max-width: 340px;
+        margin: 0rem 0rem 0rem 10rem;
 
     }
 }
@@ -128,7 +128,7 @@ footer h3 {
     }
     .container {
         padding: 0rem 0rem 0rem 10rem;
-        max-width: 348px;
-        margin: 0rem 0rem 0rem 16rem;
+        max-width: 340px;
+        margin: 0rem 0rem 0rem 20rem;
     }
 }
