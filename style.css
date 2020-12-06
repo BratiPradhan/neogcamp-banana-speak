@@ -111,18 +111,24 @@ footer h3 {
 }
 
 @media only screen and (min-width : 768px) {
+    body{
+        background-size: contain;
+    }
     .container {
         padding: 0rem 1rem;
-        max-width: 400px;
-        margin: left;
+        max-width: 348px;
+        margin: 0rem 0rem 0rem 4.8rem;
 
     }
 }
 
 @media only screen and (min-width : 992px) {
+    body{
+        background-size: contain;
+    }
     .container {
         padding: 0rem 0rem 0rem 10rem;
-        max-width: 400px;
-        margin: left;
+        max-width: 348px;
+        margin: 0rem 0rem 0rem 16rem;
     }
 }
